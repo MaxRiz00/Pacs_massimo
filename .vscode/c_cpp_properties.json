@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/mnt/c/Users/massi/Desktop/Polimi/pacs/pacs-examples/Examples/**",
+                "/mnt/c/Users/massi/Desktop/Polimi/pacs/pacs-examples/Examples/src/Utilities",
+                "/mnt/c/Users/massi/Desktop/Polimi/pacs/pacs-examples/Examples/src/Streams/binary_io"
+            ],
+            "defines": [],
+            "compilerPath": "/u/sw/toolchains/gcc-glibc/11.2.0/prefix/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
